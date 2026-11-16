@@ -1,0 +1,7 @@
+movement_type;description;bucket
+101;Goods receipt for purchase order;In
+102;Reversal of goods receipt;In (reversal)
+261;Goods issue to production order;Out
+311;Transfer between storage locations;Internal move
+551;Scrapping;Out
+601;Goods issue for customer delivery;Out
